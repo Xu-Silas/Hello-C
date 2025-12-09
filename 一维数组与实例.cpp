@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//Êı×é 
+//æ•°ç»„ 
 int main()
 {
-	//ÎåÖ»Ğ¡Öí³ÆÌåÖØ 
+	//äº”åªå°çŒªç§°ä½“é‡ 
 	int arr[5]={100,300,500,400,200};
 	int max=0;
 	for(int i=0;i<5;i++)
@@ -15,7 +15,7 @@ int main()
 		}
 	}
 	cout<<max<<endl; 
-	//ÔªËØÄæÖÃ
+	//å…ƒç´ é€†ç½®
 	int arr1[5]={1,3,2,5,4};
 	int start=0;
 	int end=sizeof(arr1)/sizeof(arr1[0])-1;
@@ -32,7 +32,7 @@ int main()
     {
     	cout<<arr1[i]<<endl;
 	}
-	//Ã°ÅİÅÅĞò
+	//å†’æ³¡æ’åº
 	int arr2[9]={1,3,2,0,4,7,6,8,5};
 	for(int i=0;i<9-1;i++)
 	{
@@ -51,3 +51,4 @@ int main()
     	cout<<arr2[i]<<endl;
 	}
 }
+
