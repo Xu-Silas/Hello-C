@@ -2,7 +2,8 @@
 #include<string>
 using namespace std;
 
-//C++ѧϰ��ʼ 
+//github工作流测试
+//C++ѧϰ��ʼ 
 int main()
 {
 	string name;
